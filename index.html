@@ -12,6 +12,7 @@
 
         <link rel="stylesheet" href="css/normalize.css">
         <link rel="stylesheet" href="css/main.css">
+        <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
         <script src="js/vendor/modernizr-2.8.3.min.js"></script>
     </head>
     <body>
@@ -25,24 +26,75 @@
         </div>
 
         <div class="navbar">
-            <a href="#home">Home</a>
-            <a href="#about">About</a>
-            <a href="#mywork">My Work</a>
-            <a href="#contact">Contact</a>
+            <a href="#home" onclick="topFunction()">Home</a>
+            <a href="#about" onclick="scrollToAbout()">About</a>
+            <a href="#mywork" onclick="scrollToMyWork()">My Work</a>
+            <a href="#contact" onclick="scrollToContact()">Contact</a>
 
 
         </div>
 
 
         <div class="firstbox">
+            <p style="color: lightgrey;" > Graduate Student <img class="seanface" src="seanface2.JPG" style="width: 20%; height: auto" align="middle"> Software Engineer</p>
+            <p style="font-size:36px; color: aqua;"> Hello</p>
+            <p>My name is Sean Kennedy.  Welcome to my website.</p>
+            <p>Scroll down and i'll tell you a little more about myself.</p>
+        </div>
 
-            <p>Hello, you have found your way to my website.  I am Sean Kennedy</p>
-            <p>This website is under construction.</p>
+            <div id="about" class="aboutMe"><a href="about"></a>
+                <p style="font-size: 36px; color: greenyellow">About Me</p>
+                <p> I am currently a graduate student at UC pursuing a Masters of Science in Computer Science.
+                <p>
+                     My research interests include big data and data mining, and its applications to environmental and atmospheric science, machine learning and computer vision.
+                 </p>
+                <p>
+                    In 2013, I graduated from the University of Cincinnati, summa cum laude, with a bachelor's degree in history.
+                    When I began college in 2009, my family encouraged me to get a broad liberal arts education and I was drawn to
+                    history as a major because of my interest in the subject.  I was afforded the opportunity to go beyond the routine
+                    curriculum by researching, writing and presenting a paper as a Charles Phelps Taft Fellow in history.
+                    You can find a link to and description of that work if you check out the My Work section of this website.
+                    While I enjoyed history and the liberal arts education, I never intended to pursue history beyond college.
+                    Instead, I was focusing on applying to graduate programs in atmospheric science.
+                    While visiting one of the schools that I expected to apply to, a professor advised me to take a computer science class.
+                    During my senior year, I took a yearlong course in Java programming and the fundamentals of computer science, which piqued my interest in the field.
+                    Unfortunately, I was not able to take more computer science classes because I was graduating from the university.
+                    I began to study programming languages (such as C and C++) and CS concepts on my own.
+                    While I believe that it is possible to learn on your own, I value the educational experience that comes from having
+                    interactions between fellow students and with professors.  That led me to pursue computer science study in a more formal
+                    setting at the University of Cincinnati.
+                </p>
+                 <p>
+                     I am an avid fisherman and I love the outdoors.  I enjoy hiking, biking, skiing, kayaking, camping
+                     and a host of other hobbies that allow me to spend time in nature.
+                     I also have a passion for video games and I enjoy following that industry closely.
+                </p>
+
+            </div>
+
+
+
+        <div id="mywork" class="seanwork">
+            <p style="font-size: 36px; color: indianred;"> My Work</p>
+            <p style="font-size: 24px; color: forestgreen; text-decoration: underline">History Works</p>
+            <p><a href="Taft%20History%20Paper.pdf">This</a> is the research paper I completed as the result of my Charles Phelps Taft Fellowship
+                that I presented at the <a href="2013%20QCC%20Program.pdf">Tenth Annual Queen City Colloquium.</a>
+                It is titled "The Historical Perspectives of Narco-Trafficking and Political Corruption in Mexico". </p>
+            <p style="font-size: 24px; color: forestgreen; text-decoration: underline"> Software</p>
+            <p> My <a href="https://github.com/kenneds6">Github profile</a> contains some of my recent projects.</p>
+        </div>
+
+        <div id="bottom" class="bottompic">
+            <img src="seanatdesk.jpg" width="100%" height="auto" style="display: inline-block">
+        </div>
+
+        <div id="contact" class="contact-bar">
+            <p><a href="mailto:kenneds6@mail.uc.edu"><i class="fa fa-envelope"></i></a>
+                <a href="https://github.com/kenneds6"><i class="fa fa-github" aria-hidden="true"></i></a>
+            </p>
 
         </div>
-        <div class="aboutMe">
 
-        </div>
 
 
 

@@ -98,6 +98,8 @@ textarea {
 body {margin: 0;}
 
 
+
+
 .navbar {
     text-align: center;
     overflow: hidden;
@@ -117,20 +119,90 @@ body {margin: 0;}
     text-decoration: none;
     font-size: 17px;    font-family: "Palatino Linotype", "Book Antiqua", Palatino, serif;
 }
-
-.firstbox {
-    text-align: center;
-    background-color: lightblue;
-    padding: 16px;
-    margin-top: 30px;
-    height: 1500px;
+.navbar a:hover{
+    color: grey;
 }
 
-.aboutMe {
-    background-color: whitesmoke;
-    padding: 16px;
+.firstbox {
+    background-color: white;
+    text-align: center;
+    padding-top: 30px;
+
+    font-size: 100%;
     margin-top: 30px;
-    height: 1500px;
+    padding-bottom: 70px;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+
+}
+.seanface {
+    border-radius: 25px;
+    display: inline-block;
+
+}
+
+
+.aboutMe {
+    background-color: #555;
+    color: white;
+    /*padding: 16px;*/
+    /*margin-top: 30px;*/
+   /* height: 700px;*/
+    text-align: center;
+    padding:5%;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+
+}
+
+
+
+
+.seanwork {
+    background-color: white;
+    text-align: center;
+
+    /*margin-top: 30px;*/
+   padding: 5%;
+    font-family: "Century Gothic", CenturyGothic, Geneva, AppleGothic, sans-serif;
+
+}
+
+
+.contactMe {
+    display: inline-block;
+
+    background-color: lightslategrey;
+
+    /*margin-top: 30px;*/
+    height: 300px;
+    width: 100%
+}
+
+
+
+
+.contact-bar {
+    text-align: center;
+    width: 100%; /* Full-width */
+    background-color: #555; /* Dark-grey background */
+    overflow: auto; /* Overflow due to float */
+}
+
+.contact-bar a {
+    text-align: center;
+    padding: 14px 16px;
+
+    width: 100%; /* Equal width (5 icons with 20% width each = 100%)*/
+
+    transition: all 0.3s ease; /* Add transition for hover effects */
+    color: white; /* White text color */
+    font-size: 36px; /* Increased font size */
+}
+.contact-bar a:hover {
+    background-color: #000; /* Add a hover color */
+}
+
+.active {
+    background-color: #4CAF50; /* Add an active/current color */
 }
 
 

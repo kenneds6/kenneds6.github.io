@@ -1,0 +1,21 @@
+<span id="a">sean_kennedy@your-browser</span>:<span id="b">~</span><span id="c">$</span> cd smk/<!-- daf;eiaj;lfjei;lafjile;ajife;asf-->about_sean
+<span id="a">sean_kennedy@your-browser</span>:<span id="b">~</span><span id="c">$</span> cat <!-- dafea;fije;ajfiel;ajifl;jse -->who_is_sean.txt<br/><br/>
+
+WELCOME! You wound up here, on my personal website somehow...<!-- dafia;jdi;ljfai;jei;lajdils; -->  Who am I, you ask?  Well thanks for asking,<!-- dafia;jdi;ljfai;jei;lajdils; --> I'll be glad to tell you, of course.  My name is Sean Kennedy and I am a software engineer.<!-- dafid;ajidf;jaisfjdi;lajfdil;ajifdjals;-->
+
+<p> Keep on reading if you want to find out what I am up to these days, and a little bit about my background.</p>
+<p>As of early 2019, I am a graduate student at the University of Cincinnati pursuing a Master of Science degree in computer science.</p> <!-- dafida;jfjei;ajdkfl;ajiejdl;aifej;a -->
+<p>My current research interests include machine learning and security. My research advisor is <a href="https://homepages.uc.edu/~wang2ba/index.html">Boyang Wang, Ph.D.</a></p><!-- fdaidjfla;jdifjaifld;jaif;jdiadafjidja;f -->
+<p>In addition to pursuing a M.S. degree I work as a Graduate Research Assistant at the <!-- dafida;jfjei;ajdkfl;ajiejdl;aifej;a --> <a href="https://researchdirectory.uc.edu/facilities/149">University of Cincinnati Simulation Center</a>.  Most of the stuff I am researching in this position has to do with document classification and NLP stuff
+
+<br><br>I have also worked at <!-- dafida;jfjei;ajdkfl;ajiejdl;aifej;a --> <a href="https://www.sbir.gov/sbc/edaptive-computing-inc">Edaptive</a>, where I spent the Summer of 2018 as a <!-- fjei;ajdkfl;ajiejdl;aifej;a -->  graduate intern.  In that role, I researched state of the art machine learning and deep learning algorithms and developed prototypes to assess their performance on several different data analysis tasks.</p>
+<p>You can find some of my work on <!-- fjei;ajdkfl;ajiejdl;aifej;a --> <a href="https://github.com/kenneds6">my github</a>.</p><!-- delaydelaydelaydelaydelaydelaydlaeyldaylfylydaylf-->
+<p>In a previous life,<!-- fjei;ajdkfl;ajiejdl;aifej;a --> I researched, wrote and presented works in history, specifically narco-history and US-Mexico relations.  I presented a <!-- dafida;jfjei;ajdkfl;ajiejdl;aifej;a --> <a href="/kenneds6.github.io/Taft%20History%20Paper.pdf">research paper</a> on that subject at a conference at UC if you're interested in that sort of stuff.</p>
+
+If you want to get in touch with me<!-- dafeia;ljfi;ljeaijfi;aeji;sa-->, go ahead and send me an <!-- dafia;jdi;ljfai;jei;lajdils; --><a href="mailto:seankennedy@ieee.org">email</a>.  You can also reach out on <!-- dafida;jfjei;ajdkfl;ajiejdl;aifej;a --> <a href="https://www.linkedin.com/in/sean-kennedy-a52707148/">linkedin</a>.  If you require a secure method of communication I have a <a href="seankennedy@ieee.org_Public_Key.txt">PGP key</a>.
+
+<span id="a">sean_kennedy@your-browser</span>:<span id="b">~</span><span id="c">$</span> cd smk/<!-- dafdaijfe;ajifd;aie;jia;jfdi -->pics
+<span id="a">sean_kennedy@your-browser</span>:<span id="b">~</span><span id="c">$</span> cacaview <!-- dafeia;jfidlaj;fieja -->sean.png<br/><br/>
+<img src="sean.png" style="width: 350px; height: auto"/>
+
+<span id="a">sean_kennedy@your-browser</span>:<span id="b">~</span><span id="c">$</span>

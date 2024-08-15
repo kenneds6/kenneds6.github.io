@@ -12,7 +12,7 @@ Hello!  I'm a AI research computer scientist at the Air Force Research Lab.  I a
 
 News
 ======
-**[July 2024]** I presented our work investigating [the cognitive flexilibity of LLMs](https://openreview.net/pdf/60f5f4895744fa146cbb182a5ce6fdd55de1ca52.pdf) at the International Conference of Machine Learning Workshop on Large Language Models and Cognition.  
+**[July 2024]** I presented our work investigating [the cognitive flexilibity of LLMs](https://openreview.net/pdf/60f5f4895744fa146cbb182a5ce6fdd55de1ca52.pdf) at the International Conference of Machine Learning Workshop on Large Language Models and Cognition in Vienna, Austria.  
 
 **[July 2024]**  I presented our work on integrating cognitive models of human perception and vision transformers for adversarial robustness at the International Conference of Cognitive Modeling at Tilburg University, the Netherlands.  
 
